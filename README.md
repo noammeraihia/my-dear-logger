@@ -11,5 +11,6 @@ First clone the repository :
     git clone https://github.com/noammeraihia/my-dear-logger
 
 Compile :
+
     cmake -B build
     cmake --build build
