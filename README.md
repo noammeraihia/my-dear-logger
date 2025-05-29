@@ -6,12 +6,6 @@
 A simple logging library written in C.
 
 ## Building
-<<<<<<< HEAD
-=======
-
-### For Linux (with GNU Make)
->>>>>>> 9abc79218d1db6ea8735e0af6ddf06f4906a5a21
-
 First clone the repository :
 
     git clone https://github.com/noammeraihia/my-dear-logger
